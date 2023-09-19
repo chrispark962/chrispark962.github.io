@@ -1,5 +1,9 @@
 # Data Analyst
 
+### Technical Skills
+Languages/Tools: Python, R, SQL, Microsoft Excel VBA, Tableau, Microsoft PowerBI, Google Data Studio
+Libraries: Python: Scikit-learn, TextBlob, PyTorch, Seaborn, TensorFlow, Pandas, NumPy, Matplotlib, Featuretools / R: Caret, Ggplot2, Dplyr, Foreach, Shiny, Mlr, Leaflet, RandomForest, XGBoost
+
 ### Education
 Bachelor of Business Administration at Emory University, Goizueta Business School
 Concentration: Information Systems & Operations Management, Real Estate 
