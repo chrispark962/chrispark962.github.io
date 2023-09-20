@@ -21,3 +21,6 @@ Data Analyst @ Optum
 Selling Covered Calls Recommendation Tool with Python
 - Developed a custom Python tool leveraging financial data APIs to dynamically fetch and analyze the latest data for stocks in the S&P 500 to find the 5 best stocks for selling covered call options
 - Implemented an algorithm that integrated quantitative stock metrics (stock/option prices, P/E Ratio, Market Cap, SMA, RSI, etc.) and market trends, resulting in precise stock recommendations for covered call strategies, aiding users in making more informed investment decisions
+
+Time Series Analysis Model for Ecuador's Grocery Stores Sales Data
+- Developed a time series model for 10+ grocery stores in Ecuador to predict sales by 20+ product groups (90%+ accuracy)
