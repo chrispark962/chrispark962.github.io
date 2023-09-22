@@ -24,3 +24,6 @@ Selling Covered Calls Recommendation Tool with Python
 
 Time Series Analysis Model for Ecuador's Grocery Stores Sales Data
 - Developed a time series model for 10+ grocery stores in Ecuador to predict sales by 20+ product groups (90%+ accuracy)
+
+Correlation Analysis between Population and Win/Loss Ratio
+- Explored the relationship between a city's population and its respective professional sports team's win/loss ratio for NBA, NHL, NFL, and MLB (25+ cities)
