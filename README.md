@@ -23,7 +23,8 @@ Selling Covered Calls Recommendation Tool with Python
 - Implemented an algorithm that integrated quantitative stock metrics (stock/option prices, P/E Ratio, Market Cap, SMA, RSI, etc.) and market trends, resulting in precise stock recommendations for covered call strategies, aiding users in making more informed investment decisions
 
 Time Series Analysis Model for Ecuador's Grocery Stores Sales Data
-- Developed a time series model for 10+ grocery stores in Ecuador to predict sales by 20+ product groups (90%+ accuracy)
+- Developed a time series model for 10+ grocery stores in Ecuador to predict sales for 20+ product groups (SMA, EMA, etc.)
 
-Correlation Analysis between Population and Win/Loss Ratio
-- Explored the relationship between a city's population and its respective professional sports team's win/loss ratio for NBA, NHL, NFL, and MLB (25+ cities)
+Different Sports Team Performance Analysis with Population Data
+- Explored the relationship between a city's population and its professional sports team's win/loss ratio for NBA, NHL, NFL, and MLB (25+ cities)
+- Explored the relationship between a city's sports teams' performances with each other (NBA, NHL, NFL, and MLB) by performing paired sample t-tests (for 25+ cities)
