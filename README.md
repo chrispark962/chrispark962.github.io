@@ -28,3 +28,6 @@ Time Series Analysis Model for Ecuador's Grocery Stores Sales Data
 Different Sports Team Performance Analysis with Population Data
 - Explored the relationship between a city's population and its professional sports team's win/loss ratio for NBA, NHL, NFL, and MLB (25+ cities)
 - Explored the relationship between a city's sports teams' performances with each other (NBA, NHL, NFL, and MLB) by performing paired sample t-tests (for 25+ cities)
+
+Fruit Classifier with K Nearest Neighbors Algorithm (Supervised Learning)
+- Investigated the relationship between i) accuracy and k (nearest neighbors) values, and ii) accuracy and train/test split proportions for a KNN Fruit Classifier Model
