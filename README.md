@@ -39,10 +39,14 @@ Fruit Classifier with K Nearest Neighbors Algorithm (Supervised Learning)
 
 Breast Cancer Cell Classification Algorithm with K Nearest Neighbors Supervised Learning
 - Developed a KNN Classifier Model for Breast Cancer Cell Classification (malignant vs benign) with 30+ features and 90%+ accuracy
+![classifier](/assets/img/breast_cancer_training_proportion_study.png?raw=true)
 
 Supervised Learning: Polynomial Linear Regression & Lasso Regression
 - Computed the coefficients of determination (R^2) for different degrees (1, 3, 6, 9) in a Polynomial Linear Regression Model
 - Implemented a Lasso Regression Model that scored 0.6 in Coefficient of Determination (R^2)
+![classifier](/assets/img/polynomial_linear_regression.png?raw=true)
 
 Supervised Learning: Gamma Hyperparameter Tuning for Support Vector Machine (SVM) in Mushroom Poison Classification 
 - Utilized validation curves to perform gamma hyperparameter tuning for SVM in classifying mushroom data into poisinous or not poisonous
+![classifier](/assets/img/mushroom_poison_decision_tree.png?raw=true)
+
