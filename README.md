@@ -31,7 +31,12 @@ Different Sports Team Performance Analysis with Population Data
 
 Fruit Classifier with K Nearest Neighbors Algorithm (Supervised Learning)
 - Investigated the relationship between i) accuracy and k (nearest neighbors) values, and ii) accuracy and train/test split proportions for a KNN Fruit Classifier Model
+<br>
 ![classifier](/assets/img/classifier_plot.png?raw=true)
+<br>
+![classifier](/assets/img/k_relationship_with_accuracy.png?raw=true)
+<br>
+![classifier](/assets/img/training_proportion_relationship_with_accuracy.png?raw=true)
 
 Breast Cancer Cell Classification Algorithm with K Nearest Neighbors Supervised Learning
 - Developed a KNN Classifier Model for Breast Cancer Cell Classification (malignant vs benign) with 30+ features and 90%+ accuracy
