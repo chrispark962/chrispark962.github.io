@@ -50,3 +50,7 @@ Supervised Learning: Gamma Hyperparameter Tuning for Support Vector Machine (SVM
 - Utilized validation curves to perform gamma hyperparameter tuning for SVM in classifying mushroom data into poisinous or not poisonous
 ![classifier](/assets/img/mushroom_poison_decision_tree.png?raw=true)
 
+Visualizing the Maximum and Minimum Temperatures for Each Day of a Year (2005-2014) with Matplotlib
+![classifier](/assets/img/max_min_temp_visualization_output.png?raw=true)
+
+
