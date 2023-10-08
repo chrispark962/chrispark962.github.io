@@ -58,8 +58,8 @@ Fraudulent Email Classifier - Model Selection
 - Performed a Grid Search Crossvalidation for L1, L2 and C Hyperparameters for a Logistic Regression Classifier
 ![image_8](/assets/img/precision_recall_curve.png?raw=true)
 <br>
-![image_8](/assets/img/roc_curve.png?raw=true)
+![image_9](/assets/img/roc_curve.png?raw=true)
 <br>
-![image_8](/assets/img/grid_search.png?raw=true)
+![image_10](/assets/img/grid_search.png?raw=true)
 
 
