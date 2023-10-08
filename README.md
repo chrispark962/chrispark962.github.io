@@ -31,26 +31,35 @@ Different Sports Team Performance Analysis with Population Data
 
 Fruit Classifier with K Nearest Neighbors Algorithm (Supervised Learning)
 - Investigated the relationship between i) accuracy and k (nearest neighbors) values, and ii) accuracy and train/test split proportions for a KNN Fruit Classifier Model
-![classifier](/assets/img/classifier_plot_.png?raw=true)
+![image_1](/assets/img/classifier_plot_.png?raw=true)
 <br>
-![classifier](/assets/img/k_relationship_with_accuracy_.png?raw=true)
+![image_2](/assets/img/k_relationship_with_accuracy_.png?raw=true)
 <br>
-![classifier](/assets/img/training_proportion_relationship_with_accuracy_.png?raw=true)
+![image_3](/assets/img/training_proportion_relationship_with_accuracy_.png?raw=true)
 
 Breast Cancer Cell Classification Algorithm with K Nearest Neighbors Supervised Learning
 - Developed a KNN Classifier Model for Breast Cancer Cell Classification (malignant vs benign) with 30+ features and 90%+ accuracy
-![classifier](/assets/img/breast_cancer_training_proportion_study.png?raw=true)
+![image_4](/assets/img/breast_cancer_training_proportion_study.png?raw=true)
 
 Supervised Learning: Polynomial Linear Regression & Lasso Regression
 - Computed the coefficients of determination (R^2) for different degrees (1, 3, 6, 9) in a Polynomial Linear Regression Model
 - Implemented a Lasso Regression Model that scored 0.6 in Coefficient of Determination (R^2)
-![classifier](/assets/img/polynomial_linear_regression.png?raw=true)
+![image_5](/assets/img/polynomial_linear_regression.png?raw=true)
 
 Supervised Learning: Gamma Hyperparameter Tuning for Support Vector Machine (SVM) in Mushroom Poison Classification 
 - Utilized validation curves to perform gamma hyperparameter tuning for SVM in classifying mushroom data into poisinous or not poisonous
-![classifier](/assets/img/mushroom_poison_decision_tree.png?raw=true)
+![image_6](/assets/img/mushroom_poison_decision_tree.png?raw=true)
 
 Visualizing the Maximum and Minimum Temperatures for Each Day of a Year (2005-2014) with Matplotlib
-![classifier](/assets/img/max_min_temp_visualization_output.png?raw=true)
+![image_7](/assets/img/max_min_temp_visualization_output.png?raw=true)
+
+Fraudulent Email Classifier - Model Selection 
+- Developed a Support Vector Classifier and a Logistic Regression Classifier for classifying fradulent emails (recall > precision)
+- Performed a Grid Search Crossvalidation for L1, L2 and C Hyperparameters for a Logistic Regression Classifier
+![image_8](/assets/img/precision_recall_curve.png?raw=true)
+<br>
+![image_8](/assets/img/roc_curve.png?raw=true)
+<br>
+![image_8](/assets/img/grid_search.png?raw=true)
 
 
