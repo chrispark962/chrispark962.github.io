@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Scientist
 
 ### Technical Skills
 Languages/Tools: Python, R, SQL, Microsoft Excel VBA, Tableau, Microsoft PowerBI, Google Data Studio  
