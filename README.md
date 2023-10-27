@@ -62,4 +62,5 @@ Fraudulent Email Classifier - Model Selection
 <br>
 ![image_10](/assets/img/grid_search.png?raw=true)
 
-
+Lecture Engagement Prediction Classifier
+- Developed a Random Forest Classifier that predicts the engagement level of lecture videos based on 10+ features such as easiness, silent period rate, title word count, document entropy, etc. 
