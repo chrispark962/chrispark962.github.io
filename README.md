@@ -63,4 +63,9 @@ Fraudulent Email Classifier - Model Selection
 ![image_10](/assets/img/grid_search.png?raw=true)
 
 Lecture Engagement Prediction Classifier
-- Developed a Random Forest Classifier that predicts the engagement level of lecture videos based on 10+ features such as easiness, silent period rate, title word count, document entropy, etc. 
+- Developed a Random Forest Classifier that predicts the engagement level of lecture videos based on 10+ features such as easiness, silent period rate, title word count, document entropy, etc.
+
+Bay Area Professional Sports Teams Performance History 
+- Created a Visualization Graph of 10-Year Simple Moving Averages of Win Percentages for the 49ers, Warriors and Giants from 1950's to Present
+![image_11](/assets/img/bay_area_sports_history.png?raw=true)
+
