@@ -10,12 +10,18 @@ Concentration: Information Systems & Operations Management, Real Estate
 
 ### Work Experience 
 Data Analyst @ Optum
-- Spearhead the creation and deployment of a sophisticated Medicaid Risk Adjustment Factor model, driving a significant 30%+ boost in reimbursement for a diverse population of 15,000+ Medicaid members
-- Utilize natural language processing (NLP) to extract valuable insights from 3.5M+ unstructured claims records, enabling accurate patient diagnosis and treatment recommendations, and improving accuracy by 20%
-- Employ advanced time series analysis and predictive modeling to anticipate market trends, achieving a 12% reduction in portfolio volatility and a 10% increase in risk-adjusted returns through dynamic allocation
-- Develop insightful visualizations and reports that facilitate transparent communication with stakeholders, resulting in a 30% decrease in decision-making time and ensuring a more efficient optimization strategies
-- Conduct rigorous A/B testing, yielding a statistically significant improvement of 95% confidence level in the performance of the enhanced algorithms, reinforcing their reliability and effectiveness
-- Collaborate with 5+ cross-functional teams to ensure HIPAA compliance, safeguarding sensitive patient data and maintaining impeccable privacy protocols with 98%+ compliance rate
+- Build, test, and improve 3+ regression models (Support Vector Machine, Polynomial, Lasso & Ridge, Random Forest) used to predict the optimal renewal rate that maximizes membership retention and profit margins
+- Perform rigorous hyperparameter tuning (gamma, c, L1 & L2) to achieve 8% improvement in R2
+- Design and implement 5+ Tableau visualization reports that facilitate transparent communication with
+stakeholders, ensuring more efficient optimization strategies
+- Build 3+ SQL ETL workflows on Databricks that process and prepare 2M+ claims data for 200k+ members
+across the United States for the United Healthcare plans
+- Conduct rigorous A/B testing, yielding a statistically significant improvement of 95% confidence level in the
+performance of the enhanced algorithms, reinforcing their reliability and effectiveness
+- Spearhead the creation and deployment of a sophisticated Medicaid Risk Adjustment Factor model, driving a
+significant 30%+ boost in reimbursement for a diverse population of 15,000+ Medicaid members
+- Collaborate with 5+ cross-functional teams to ensure HIPAA compliance, safeguarding sensitive patient data
+and maintaining impeccable privacy protocols with 98%+ compliance rate
 
 ### Projects 
 Selling Covered Calls Recommendation Tool with Python
